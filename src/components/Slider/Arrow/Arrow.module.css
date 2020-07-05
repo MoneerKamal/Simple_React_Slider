@@ -1,0 +1,7 @@
+.Arrow:hover {
+    transform: scale(1.1);
+  }
+
+  .Arrow img:focus {
+    outline: 0;
+  }
